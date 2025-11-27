@@ -39,7 +39,7 @@ Esta seção contém **evidências visuais** das funcionalidades implementadas n
 
 | Screenshot | Descrição Técnica |
 |:----------:|:------------------|
-| ![Carteira de Vacinação PDF](./screenshots/carteira-digital-pdf.png) | **Carteira de Vacinação Digital em PDF** <br><br> ✅ *Implementação do **OpenHTMLToPDF** com Thymeleaf* <br> ✅ *Manipulação de streams binários (ByteArrayOutputStream)* <br> ✅ *Renderização de SVG com BatikSVGDrawer* <br> ✅ *Conversão de imagens para Base64 inline* <br><br> 📁 Código: [`code_snippets/CarteiraDigitalService.java`](./code_snippets/CarteiraDigitalService.java) |
+| ![Carteira de Vacinação PDF](./screenshots/img.png) | **Carteira de Vacinação Digital em PDF** <br><br> ✅ *Implementação do **OpenHTMLToPDF** com Thymeleaf* <br> ✅ *Manipulação de streams binários (ByteArrayOutputStream)* <br> ✅ *Renderização de SVG com BatikSVGDrawer* <br> ✅ *Conversão de imagens para Base64 inline* <br><br> 📁 Código: [`code_snippets/CarteiraDigitalService.java`](./code_snippets/CarteiraDigitalService.java) |
 
 <details>
 <summary>💡 <strong>O que esse print prova?</strong></summary>
@@ -57,7 +57,7 @@ Esta seção contém **evidências visuais** das funcionalidades implementadas n
 
 | Screenshot | Descrição Técnica |
 |:----------:|:------------------|
-| ![E-mail de Lembrete](./screenshots/email-lembrete-vacina.png) | **E-mail de Lembrete de Vacina** <br><br> ✅ *Integração **Spring Mail** com JavaMailSender* <br> ✅ *Templates HTML responsivos com Thymeleaf* <br> ✅ *Agendamento automático com `@Scheduled`* <br> ✅ *Lembretes em D-15, D-7 e D-1 (produção)* <br><br> 📁 Código: [`code_snippets/LembreteService.java`](./code_snippets/LembreteService.java) |
+| ![E-mail de Lembrete](./screenshots/img_1.png) | **E-mail de Lembrete de Vacina** <br><br> ✅ *Integração **Spring Mail** com JavaMailSender* <br> ✅ *Templates HTML responsivos com Thymeleaf* <br> ✅ *Agendamento automático com `@Scheduled`* <br> ✅ *Lembretes em D-15, D-7 e D-1 (produção)* <br><br> 📁 Código: [`code_snippets/LembreteService.java`](./code_snippets/LembreteService.java) |
 
 <details>
 <summary>💡 <strong>O que esse print prova?</strong></summary>
@@ -76,7 +76,7 @@ Esta seção contém **evidências visuais** das funcionalidades implementadas n
 
 | Screenshot | Descrição Técnica |
 |:----------:|:------------------|
-| ![Dashboard com KPIs](./screenshots/dashboard-kpis.png) | **Dashboard com KPIs e Grid de Pets** <br><br> ✅ *API REST servindo dados para Frontend Vue.js* <br> ✅ *Cálculo de métricas em tempo real* <br> ✅ *Filtros dinâmicos por espécie e busca* <br> ✅ *Contagem de vacinas vencidas e lembretes ativos* <br><br> 📁 Código: Ver `DashboardApiController.java` no repositório privado |
+| ![Dashboard com KPIs](./screenshots/screenshot1.png) | **Dashboard com KPIs e Grid de Pets** <br><br> ✅ *API REST servindo dados para Frontend Vue.js* <br> ✅ *Cálculo de métricas em tempo real* <br> ✅ *Filtros dinâmicos por espécie e busca* <br> ✅ *Contagem de vacinas vencidas e lembretes ativos* <br><br> 📁 Código: Ver `DashboardApiController.java` no repositório privado |
 
 <details>
 <summary>💡 <strong>O que esse print prova?</strong></summary>
@@ -92,9 +92,12 @@ Esta seção contém **evidências visuais** das funcionalidades implementadas n
 
 ### 📱 4. Responsividade Mobile
 
-| Screenshot | Descrição Técnica |
-|:----------:|:------------------|
-| ![Mobile View](./screenshots/mobile-responsivo.png) | **Interface Responsiva (Mobile First)** <br><br> ✅ *SPA com Vue.js 3 responsiva* <br> ✅ *CSS Grid e Flexbox adaptativo* <br> ✅ *Componentes reutilizáveis Vue.js* <br> ✅ *UX otimizada para touch devices* |
+**Interface Responsiva (Mobile First)** <br>
+✅ *SPA com Vue.js 3 responsiva* | ✅ *CSS Grid e Flexbox adaptativo* | ✅ *UX otimizada para touch devices*
+
+| Tela 1 | Tela 2 | Tela 3 | Tela 4 |
+|:---:|:---:|:---:|:---:|
+| ![Mobile 1](./screenshots/img_2.png) | ![Mobile 2](./screenshots/img_3.png) | ![Mobile 3](./screenshots/img_4.png) | ![Mobile 4](./screenshots/img_5.png) |
 
 <details>
 <summary>💡 <strong>O que esse print prova?</strong></summary>
