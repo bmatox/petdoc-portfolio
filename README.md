@@ -11,7 +11,7 @@
 
 **Plataforma completa para gestão de carteiras de vacinação de pets com geração de documentos, lembretes automáticos e deploy contínuo na AWS.**
 
-[🌐 Demo Online](https://6dfs8v3kpf.us-east-1.awsapprunner.com/login) • [📖 Documentação Técnica](#-stack-tecnológica) • [🎯 Roadmap 2026](#-roadmap-2026)
+[🌐 Acessar Aplicação (Deploy na AWS)](https://6dfs8v3kpf.us-east-1.awsapprunner.com/login) • [📖 Documentação Técnica](#-stack-tecnológica) • [🎯 Roadmap 2026](#-roadmap-2026)
 
 </div>
 
